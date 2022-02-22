@@ -1,0 +1,34 @@
+{
+  "reservations": [
+    {
+      "date": "2022-02-22",
+      "spot": "4",
+      "time": "PM",
+      "userid": "U033J08PC2D"
+    },
+    {
+      "date": "2022-02-22",
+      "spot": "6",
+      "time": "Full day",
+      "userid": "U033J08PC2D"
+    },
+    {
+      "date": "2022-02-22",
+      "spot": "4",
+      "time": "AM",
+      "userid": "U033J08PC2D"
+    },
+    {
+      "date": "2022-02-21",
+      "spot": "1",
+      "time": "Full day",
+      "userid": "U033J08PC2D"
+    },
+    {
+      "date": "2022-02-21",
+      "spot": "3",
+      "time": "Full day",
+      "userid": "U033J08PC2D"
+    }
+  ]
+}
